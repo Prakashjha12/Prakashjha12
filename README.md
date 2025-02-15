@@ -39,8 +39,9 @@
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prakashjha12&theme=matrix&no-frame=true&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prakashjha12&theme=radical&no-frame=true&column=6">
 </p>
+
 
 ---
  
