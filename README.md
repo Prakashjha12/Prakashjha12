@@ -12,8 +12,7 @@
 💡 **A passionate Full Stack Developer specialized in MEAN Stack & Tailwind CSS.**  
 🌍 **Building high-performance, scalable, and responsive web applications.**  
 🚀 **Exploring Java, PHP, and AI-powered applications.**  
-💬 **Ask me about JavaScript, Angular, Node.js, and more!**  
-📫 **Reach me at: [GitHub](https://github.com/Prakashjha12) | [LinkedIn](#)**  
+💬 **Ask me about JavaScript, Angular, Node.js, and more!**   
 
 ---
 
