@@ -1,58 +1,63 @@
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Prakash+Jha;Full+Stack+MEAN+Developer;Passionate+About+Web+and+Tech;Always+Learning+New+Things!">
+</p>
 
-# Hi there, I'm Prakash Jha 👋
-
-## 🚀 About Me
-- 💻 I’m a Full Stack Developer (MEAN & PHP)
-- 🎨 I love working with **HTML, CSS, JavaScript, Tailwind**
-- 🚀 Currently exploring **Java & Backend Development**
-- 📫 How to reach me: [GitHub](https://github.com/Prakashjha12)
-
-## 🔧 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakashjha12&show_icons=true&theme=radical)
-
-## 🏆 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashjha12&layout=compact&theme=radical)
-
-
-
-# Hi there, I'm Prakash Jha 👋
-
-<div align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Developer at work">
-</div>
+<!-- Cool Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+</p>
 
 ## 🚀 About Me
-- 💻 I’m a Full Stack Developer (MEAN & PHP)
-- 🎨 I love working with **HTML, CSS, JavaScript, Tailwind**
-- 🚀 Currently exploring **Java & Backend Development**
-- 📫 How to reach me: [GitHub](https://github.com/Prakashjha12)
+💡 **A passionate Full Stack Developer specialized in MEAN Stack & Tailwind CSS.**  
+🌍 **Building high-performance, scalable, and responsive web applications.**  
+🚀 **Exploring Java, PHP, and AI-powered applications.**  
+💬 **Ask me about JavaScript, Angular, Node.js, and more!**  
+📫 **Reach me at: [GitHub](https://github.com/Prakashjha12) | [LinkedIn](#)**  
 
-## 🔧 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakashjha12&show_icons=true&theme=radical)
+## 🎨 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,express,mongodb,tailwind,php,java,git,github,vscode" alt="Tech Stack" />
+</p>
 
-## 🏆 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashjha12&layout=compact&theme=radical)
+---
+
+## 📊 GitHub Stats & Contributions  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakashjha12&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakashjha12&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+<!-- GitHub Contributions Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakashjha12&theme=react-dark&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prakashjha12&theme=matrix&no-frame=true&column=6">
+</p>
+
+---
+
+## 🔥 Featured Projects  
+🎯 **[Project 1](#)** – A powerful MEAN Stack app  
+💻 **[Project 2](#)** – A fully responsive Tailwind website  
+🚀 **[Project 3](#)** – A PHP & MySQL-based project  
+
+---
+
+## 🌟 Fun Facts  
+🎮 **Tech explorer & open-source contributor**  
+🎶 **Loves music & experimenting with AI**  
+🍕 **Pizza over everything!**  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
