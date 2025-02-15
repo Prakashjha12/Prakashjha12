@@ -1,6 +1,4 @@
 
-
-
 # Hi there, I'm Prakash Jha 👋
 
 ## 🚀 About Me
